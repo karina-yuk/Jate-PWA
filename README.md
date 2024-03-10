@@ -48,8 +48,12 @@ Sample image of the application shown :
 
 Starter code provided by https://github.com/coding-boot-camp/cautious-meme
 
-
-
+-https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps
+-https://developer.mozilla.org/en-US/docs/Web/API/IndexedDB_API
+-https://developer.mozilla.org/en-US/docs/Web/API/Service_Worker_API
+-https://developer.mozilla.org/en-US/docs/Web/Manifest
+-https://www.npmjs.com/package/idb
+-https://webpack.js.org/guides/getting-started/
 
 ## License
 
@@ -57,6 +61,13 @@ MIT license was used for this application.
 
 ## Contributing
 
+In order to participate in this project, please adhere to the following procedure:
+
+1. Fork the repository.
+2. Initiate a new branch dedicated to your feature enhancement or bug resolution.
+3. Implement your modifications and secure them with clear, explanatory commit messages.
+4. Upload your updates to your designated branch.
+5. Propose a pull request, detailing the nature of your contributions.
 
 ## Questions
 
