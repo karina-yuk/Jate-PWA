@@ -18,7 +18,7 @@ Jate-PWA is a a single-page text editor web application that meets the PWA crite
 
 ## Installation
 
-Installation is not required. The application can be accessed at the following link:[JATE-PWA](https://whispering-sierra-93502-a7f21e01e20a.herokuapp.com)
+Installation is not required. The application can be accessed at the following link: [JATE-PWA](https://whispering-sierra-93502-a7f21e01e20a.herokuapp.com)
 
 ## Usage
 
