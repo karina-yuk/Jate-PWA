@@ -48,12 +48,12 @@ Sample image of the application shown :
 
 Starter code provided by https://github.com/coding-boot-camp/cautious-meme
 
--https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps
--https://developer.mozilla.org/en-US/docs/Web/API/IndexedDB_API
--https://developer.mozilla.org/en-US/docs/Web/API/Service_Worker_API
--https://developer.mozilla.org/en-US/docs/Web/Manifest
--https://www.npmjs.com/package/idb
--https://webpack.js.org/guides/getting-started/
+- https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps
+- https://developer.mozilla.org/en-US/docs/Web/API/IndexedDB_API
+- https://developer.mozilla.org/en-US/docs/Web/API/Service_Worker_API
+- https://developer.mozilla.org/en-US/docs/Web/Manifest
+- https://www.npmjs.com/package/idb
+- https://webpack.js.org/guides/getting-started/
 
 ## License
 
